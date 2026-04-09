@@ -88,12 +88,6 @@ New project/
 
 ![Database Items Table](./screenshots/database%20item%20list.jpeg)
 
-## Submission Notes
-
-- test all features before submission
-- keep the GitHub repository public
-- include backend, frontend, database.sql, screenshots, and README
-- do not upload real `.env` credentials
 
 ## Author
 

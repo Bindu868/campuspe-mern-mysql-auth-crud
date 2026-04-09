@@ -16,17 +16,11 @@ This project is a full-stack web application built using React, Node.js, Express
 
 ## Tech Stack
 
-- React.js
-- Node.js
-- Express.js
-- MySQL
-- React Router
-- Axios
-- Tailwind CSS
-- mysql2
-- bcryptjs
-- jsonwebtoken
-- nodemailer
+- Frontend:React.js, React Router, Axios, Tailwind CSS 
+- Backend: Node.js, Express.js
+- Database: MySQL (mysql2)
+- Authentication & Security: jsonwebtoken, bcryptjs
+- Email: nodemailer
 
 ## Project Structure
 
